@@ -1,0 +1,16 @@
+
+[
+    {
+        "titulo": "Equipo 29975 - Aguará Code. Alumnos: Mateo Suárez, Pérez Aimar y Zarini Ahylén (todos de 6to Informática)",
+        "fecha": "2026-06-22",
+        "imagen": "../img/aguaracode.jpeg",
+        "texto": "Resultado: Lograron avanzar a la segunda ronda quedando entre el 20% de los mejores equipos pero no lograron clasificar a la final."
+    },
+    {
+        "titulo": "Equipo 30007 - AKÃPORÃ. Alumnos: Cardozo David (4to Informática), Quintana Exequiel y Fabio Luciano (5to Informática)",
+        "fecha": "2026-06-22",
+        "imagen": "../img/akapora.jpeg",
+        "texto": "Resultado: El equipo no pasó la primer ronda. "
+    }
+]
+
